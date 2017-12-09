@@ -1,0 +1,8 @@
+public class HelloWorld{
+     public static void main(String[] args){
+              say();
+     }
+     public void say(){
+              System.out.println("hello world!");
+     }
+}
